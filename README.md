@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Zeeshan Khan 👋
 
-<!--
-**mzeeshan321-1/mzeeshan321-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate full-stack web developer focused on building practical web applications with Laravel.
 
-Here are some ideas to get you started:
+## 💻 What I Do
+- Build web applications using modern development practices
+- Develop backend systems with PHP and Laravel
+- Design and implement database-driven applications
+- Work on management systems such as HR, payroll, and project management tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- PHP
+- Laravel
+- MySQL
+- JavaScript
+- HTML
+- CSS
+- Bootstrap
+- Tailwind
+- Vue
+- Rest API
+- Pest
+
+## 🚀 Projects
+I enjoy building systems that solve real-world problems. Some of the projects I work on include:
+
+- Project Management System
+- HR Management System
+  
+You can explore my repositories to see these projects and more.
+
+## 🌱 Currently Learning
+- Advanced Laravel development
+- API development
+- Writing cleaner and more maintainable code
+
+## 🔗 Connect With Me
+LinkedIn: https://www.linkedin.com/in/zeeshan-khan-zkh
+
+---
+
+⭐ Thanks for visiting my profile!
